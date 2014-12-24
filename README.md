@@ -29,10 +29,10 @@ As an example BBWatch (aka Baby Watch) application has been implemented by using
 
   Sequence:
   
-    Init() 		- To initialize the module 
-    Start() 		- To start streaming server
-    SetData()	- To provide video data to the streamer
-    Close()	- To close the module	
+    Init()    - To initialize the module 
+    Start()   - To start streaming server
+    SetData() - To provide video data to the streamer
+    Close()   - To close the module	
 
   Source Code:
   
