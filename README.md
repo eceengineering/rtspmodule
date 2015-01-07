@@ -23,6 +23,8 @@ As an example BBWatch (aka Baby Watch) application has been implemented by using
     Test OS:                Linux Ubuntu
                             Linux Debian
 
+  CAMMODULE Details: https://github.com/eceengineering/cammodule
+  
   Important Note:
   
   Encoder related parameters need to be set correctly in order to get the streaming pipeline constructed with success. So, please use "gst-inspect" command to investigate available video encoder and rtp plugins of GStreamer installed in your environment.
