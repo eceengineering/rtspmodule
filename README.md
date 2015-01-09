@@ -54,3 +54,7 @@ As an example BBWatch (aka Baby CAM) application has been implemented by using C
   
     Build:$make
     Run:  $./Test.sh
+    
+  Note:
+  
+  If you are worried about the camera in use, please check https://github.com/eceengineering/cammodule_test .
